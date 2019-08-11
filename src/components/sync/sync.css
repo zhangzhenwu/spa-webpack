@@ -1,0 +1,8 @@
+.test {
+  --fontColor: yellowgreen;
+  color: var(--fontColor);
+}
+
+.bg {
+  color: red;
+}
